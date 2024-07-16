@@ -2,6 +2,7 @@ import {initializeApp} from "firebase/app"
 
 //firebase config
 
+
 const app = initializeApp({
     
         apiKey: process.env.REACT_APP_API_KEY,
